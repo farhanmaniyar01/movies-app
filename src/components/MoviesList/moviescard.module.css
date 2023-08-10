@@ -1,0 +1,24 @@
+/* .movie_card{
+    display: flex;
+    flex-direction: column;
+    align-items:center ;
+    justify-content: center;
+    height: 280px;
+    width: 200px;
+    border: 2px solid slategrey;
+
+}
+.movie_card img{
+    height: 50%;
+    width: 100%;
+}
+.btnWrapper{
+    display: flex;
+    gap: 12px;
+    align-items: center;
+    justify-content: center;
+} */
+
+img {
+    width: 200px;
+}

@@ -1,0 +1,41 @@
+.logo img {
+    width: 100px;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo h1 {
+    margin-left: 20px;
+    color: white;
+}
+
+.navbar {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color: blueviolet;
+}
+
+.navigate a {
+    margin: 0px 10px;
+    text-decoration: none;
+    font-size: 1.5rem;
+    color: white;
+    transition: 0.3s;
+}
+
+.navigate a:hover {
+    background-color: white;
+    color: blueviolet;
+    padding: 8px 10px;
+    border-radius: 20px;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 1px 0px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 48px;
+}
+
+.navigate {
+    display: flex;
+    align-items: center;
+}
